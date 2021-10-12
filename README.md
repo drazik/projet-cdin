@@ -31,6 +31,7 @@ Un expert technique a fait une première analyse du projet et a emis les recomma
 * Les maquettes doivent être intégrées en utilisant la méthodologie mobile-first
 * Le code HTML doit utiliser des balises adaptées à la sémantique de chaque élément
 * Le style des différents éléments doit être implémenté avec des classes. Les blocs ayant des styles similaires doivent utiliser les mêmes classes afin d'éviter de la répétition dans le code CSS
+* Utilisation d'un moteur de template (Pug conseillé) pour découper l'interface de manière à vous répéter le moins possible grâce au système d'héritage et de mixins
 
 Le client souhaite que son site web soit prêt à être mis en ligne le 16
 novembre. Vous pourrez mettre en ligne une démo sur
